@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "portfolio-pessoal",
+    "slug": "portfolio-pessoal",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}
