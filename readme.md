@@ -1,0 +1,3 @@
+- O projeto foi feito com drawerNaviagtion(de outra atividade passada) e o que foi passado na aula de interação com outros apps. 
+- O projeto foi feito pensando em ser um portfolio para mim (lucca). A ideia é que com o tempo eu aprimore o aplicativo para usa-lo efetivamente como um portfolio.
+-Ele tem duas telas. Uma de introdução, com informações básicas e outra com os botoes que levam aos outros aplicativos que levam direto ao meu perfil (Ex: github leva direto para o meu perfil do github)
