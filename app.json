@@ -4,6 +4,17 @@
     "slug": "portfolio-pessoal",
     "version": "1.0.0",
     "orientation": "portrait",
-    "userInterfaceStyle": "light"
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "cb687fd0-90cf-4ed4-9868-97b343ce0f5c"
+      }
+    },
+    "android": {
+      "package": "com.itsluxz.portfoliopessoal"
+    }
   }
 }
